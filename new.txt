@@ -1,2 +1,2 @@
-Hello Python!
-Welcome to file handling.
+Name:John
+Age:20
